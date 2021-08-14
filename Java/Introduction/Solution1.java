@@ -1,4 +1,4 @@
-package com.mycompany.hackerrank;
+package Introduction;
 
 /*Welcome to the world of Java! In this challenge, we practice printing to stdout.
 
